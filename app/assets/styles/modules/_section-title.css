@@ -21,10 +21,10 @@
     }
     
     &__icon {
-        display: block;
         margin-left: auto;
         margin-right: auto;
         margin-bottom: .6rem;
+        display: block;
         
         @mixin atSmall {
             position: relative;
